@@ -1,0 +1,7 @@
+r = input number
+
+N = number of atoms     == 2**r
+
+R = number of x and Y   == 2*r+1
+
+P = number of px and py == r + 1 - r % 2
